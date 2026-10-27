@@ -11,7 +11,7 @@
     <a href="https://portfolio-ten-xi-dycodmow67.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   </td>
   <td align="center">
-    <a href="mailto:sahiabdullah4321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="mailto:sahiabdullah4321@gmail.com"><img src="https://img.shields.io/badge/-sahiabdullah4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sahiabdullah4321@gmail.com" /></a>
   </td>
   <td align="center">
     <a href="https://linkedin.com/in/muhammad-abdullah-84610b206/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
