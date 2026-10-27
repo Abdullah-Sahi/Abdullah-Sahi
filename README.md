@@ -2,11 +2,14 @@
 
 <table align="center">
 <tr>
-  <td align="center" colspan="3">
+  <td align="center" colspan="4">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+.NET+Developer+%7C+ASP.NET+Core+%26+React;Android+%26+Kotlin+Multiplatform+Apps;Open+to+Full-time+%26+Remote+Roles" alt="Typing SVG" />
   </td>
 </tr>
 <tr>
+  <td align="center">
+    <a href="https://portfolio-ten-xi-dycodmow67.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  </td>
   <td align="center">
     <a href="mailto:sahiabdullah4321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </td>
